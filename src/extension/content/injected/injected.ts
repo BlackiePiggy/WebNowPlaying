@@ -14,6 +14,7 @@ import Plex from "./sites/Plex";
 import RadioAddict from "./sites/RadioAddict";
 import SoundCloud from "./sites/SoundCloud";
 import Spotify from "./sites/Spotify";
+import NeteaseMusic from "./sites/NeteaseMusic";
 import Tidal from "./sites/Tidal";
 import Twitch from "./sites/Twitch";
 import VK from "./sites/VK";
@@ -42,6 +43,7 @@ const sites = [
   RadioAddict,
   SoundCloud,
   Spotify,
+  NeteaseMusic,
   Tidal,
   Twitch,
   VK,
