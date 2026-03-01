@@ -25,6 +25,7 @@ export type TSupportedSites =
   | "VK"
   | "Yandex Music"
   | "YouTube"
+  | "Bilibili"
   | "YouTube Embeds"
   | "YouTube Music";
 
@@ -48,6 +49,7 @@ export const SupportedSites: TSupportedSites[] = [
   "VK",
   "Yandex Music",
   "YouTube",
+  "Bilibili",
   "YouTube Embeds",
   "YouTube Music",
 ];

@@ -20,6 +20,7 @@ import Twitch from "./sites/Twitch";
 import VK from "./sites/VK";
 import YandexMusic from "./sites/YandexMusic";
 import YouTube from "./sites/YouTube";
+import Bilibili from "./sites/Bilibili";
 import YouTubeEmbeds from "./sites/YouTubeEmbeds";
 import YouTubeMusic from "./sites/YouTubeMusic";
 import { InjectedUtils } from "./utils";
@@ -49,6 +50,7 @@ const sites = [
   VK,
   YandexMusic,
   YouTube,
+  Bilibili,
   YouTubeEmbeds,
   YouTubeMusic,
 ];
