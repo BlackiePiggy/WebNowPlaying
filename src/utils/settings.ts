@@ -52,7 +52,7 @@ export const SupportedSites: TSupportedSites[] = [
   "Bilibili",
   "YouTube Embeds",
   "YouTube Music",
-];
+]; 
 
 type TSiteSettings = Partial<{
   [key in TSupportedSites]: {
